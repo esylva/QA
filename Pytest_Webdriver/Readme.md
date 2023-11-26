@@ -1,4 +1,4 @@
-## Написать скрипт по тестированию сайта mobile.de. на Python используя PyTest и Selenium WebDriver.
+## Написать скрипт по тестированию сайта mobile.de на Python используя PyTest и Selenium WebDriver.
 
 ### Сценарий скрипта и требования:
 
